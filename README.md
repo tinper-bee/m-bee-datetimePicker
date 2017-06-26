@@ -1,7 +1,7 @@
 
 # m-bee-datetimePicker
 
-> fork and modified width m-bee-datetimePicker
+> fork and modified width react-mobile-datepicker
 
 **a  lightweight react date picker for mobile, Not more than 4k**
 
