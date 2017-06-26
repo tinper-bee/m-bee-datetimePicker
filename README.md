@@ -12,29 +12,9 @@ m-bee-datetimePicker provides a component that can set year, month and day by sl
 - It does not depend on moment.js
 
 ## Screenshots
-### default
-<div style="padding:30px">
-<img src="https://raw.githubusercontent.com/lanjingling0510/m-bee-datetimePicker/master/.github/default.png" width="300" />
-</div>
 
-### dark
 <div style="padding:30px">
-<img src="https://raw.githubusercontent.com/lanjingling0510/m-bee-datetimePicker/master/.github/dark.png" width="300" />
-</div>
-
-### ios
-<div style="padding:30px">
-<img src="https://raw.githubusercontent.com/lanjingling0510/m-bee-datetimePicker/master/.github/ios.png" width="300" />
-</div>
-
-### android
-<div style="padding:30px">
-<img src="https://raw.githubusercontent.com/lanjingling0510/m-bee-datetimePicker/master/.github/android.png" width="300" />
-</div>
-
-### android-dark
-<div style="padding:30px">
-<img src="https://raw.githubusercontent.com/lanjingling0510/m-bee-datetimePicker/master/.github/android-dark.png" width="300" />
+	<img src="./Screenshots-IOS.jpg" width="300" />
 </div>
 
 ## Getting Started
