@@ -1,6 +1,6 @@
 {
   "name": "m-bee-datetimepicker",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "基于 React 的移动端日期时间选择组件",
   "main": "./dist/m-bee-datetimepicker.js",
   "amdName": "reactMobileDatePicker",
